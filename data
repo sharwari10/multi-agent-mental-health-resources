@@ -1,0 +1,58 @@
+{
+  "CRISIS_LINES": [
+    {
+      "name": "National Suicide Prevention Lifeline",
+      "number": "988",
+      "description": "24/7, free and confidential support for people in distress.",
+      "availability": "Global/US",
+      "urgency_level": "High"
+    },
+    {
+      "name": "Crisis Text Line",
+      "number": "Text HOME to 741741",
+      "description": "Connect with a volunteer Crisis Counselor 24/7.",
+      "availability": "Global/US",
+      "urgency_level": "High"
+    }
+  ],
+  "THERAPY_PLATFORMS": [
+    {
+      "name": "BetterHelp",
+      "website": "https://www.betterhelp.com",
+      "description": "Online counseling and therapy services.",
+      "cost": "Paid"
+    },
+    {
+      "name": "Talkspace",
+      "website": "https://www.talkspace.com",
+      "description": "Online therapy by text, audio, and video.",
+      "cost": "Paid"
+    }
+  ],
+  "DIGITAL_TOOLS": [
+    {
+      "name": "Headspace",
+      "description": "Meditation and sleep app.",
+      "cost": "Freemium"
+    },
+    {
+      "name": "Calm",
+      "description": "App for sleep, meditation and relaxation.",
+      "cost": "Freemium"
+    }
+  ],
+  "COMMUNITY_SUPPORT": [
+    {
+      "name": "NAMI Connection",
+      "website": "https://nami.org",
+      "description": "Recovery support group program for adults living with mental illness."
+    }
+  ],
+  "HELPLINES": [
+    {
+      "name": "SAMHSA National Helpline",
+      "number": "1-800-662-HELP (4357)",
+      "description": "Free, confidential, 24/7, 365-day-a-year treatment referral and information service."
+    }
+  ]
+}
